@@ -1,0 +1,9 @@
+# Ignoriere alle Web-Dateien im gesamten Projekt für die Sprachstatistik
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.php linguist-detectable=false
+*.sql linguist-detectable=false
+
+# Falls du einen bestimmten Ordner mit Web-Testdateien hast (z.B. "test-sites/"), ignoriere den ganzen Ordner:
+test-sites/ linguist-vendored
