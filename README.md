@@ -13,6 +13,7 @@ Läuft auf **Apple Silicon und Intel** (Universal-Binary).
 Beim ersten Start bietet Lampion an, sich selbst in den Programme-Ordner zu verschieben (über das Package [MoveToApplications](https://github.com/webfalter/MoveToApplications)).
 
 Einstellungen (⌘,) → MySQL-Benutzer und Passwort eintragen. Das Passwort landet im Schlüsselbund.
+<img src="img/app.png" alt="Screenshot" width="400" align="">
 
 ## Funktionen
 
