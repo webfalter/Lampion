@@ -1,5 +1,5 @@
 # Lampion
-<img src="img/AppIcon.png" alt="Screenshot" width="150" align="right">
+<img src="img/AppIcon.png" alt="Screenshot" width="130" align="right">
 
 Native macOS-App, die deinen lokalen Web-Stack (Apache, MySQL, PHP) zum Leuchten bringt, Apache, MySQL und PHP verwalten, PHP-Version wechseln und Datenbanken sichern.
 Läuft auf **Apple Silicon und Intel** (Universal-Binary).
