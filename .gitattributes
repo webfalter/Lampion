@@ -1,3 +1,6 @@
+README.md linguist-language=Swift
+
+
 # Ignoriere alle Web-Dateien im gesamten Projekt für die Sprachstatistik
 *.html linguist-detectable=false
 *.css linguist-detectable=false
