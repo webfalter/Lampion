@@ -3,7 +3,7 @@
 
 Native macOS-App, die deinen lokalen Web-Stack (Apache, MySQL, PHP) zum Leuchten bringt, Apache, MySQL und PHP verwalten, PHP-Version wechseln und Datenbanken sichern.
 Läuft auf **Apple Silicon und Intel** (Universal-Binary).
-
+<br clear="right">
 ## Voraussetzungen
 
 - macOS 15 Sequoia oder neuer (Liquid-Glass-Optik ab macOS 26 Tahoe) und Xcode 26
