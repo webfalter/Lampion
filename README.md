@@ -14,7 +14,7 @@ Beim ersten Start bietet Lampion an, sich selbst in den Programme-Ordner zu vers
 
 Einstellungen (⌘,) → MySQL-Benutzer und Passwort eintragen. Das Passwort landet im Schlüsselbund.
 <img src="img/app.png" alt="Screenshot" width="400" align="left"><img src="img/pho.png" alt="Screenshot" width="400" align="right">
-
+<br clear="right">
 ## Funktionen
 
 | Bereich | Inhalt |
